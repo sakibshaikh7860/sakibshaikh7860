@@ -12,7 +12,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibshaikh7860&label=Profile%20views&color=0e75b6&style=flat" alt="sakibshaikh7860" /></p>
 
 ---
-<img align="right" alt="coding" width="400" padding-top="50px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <br>
 
 ### 🛠️ Skills & Expertise
@@ -20,7 +21,7 @@
 #### 👨‍💻 Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![php](https://img.shields.io/badge/php-4a5f9d?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-round&logo=&logocolor=white)
 
 #### 🗄️ Databases:
@@ -51,6 +52,11 @@ CGPA: **-** | Percentage: **-**
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakibshaikh7860&show_icons=true&locale=en" alt="sakibshaikh7860" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibshaikh7860&show_icons=true&locale=en&layout=compact" alt="sakibshaikh7860" /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
