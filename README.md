@@ -33,8 +33,8 @@
 ## 🎓 Education
 
 ### 🎓 Bachelor of Business Administration in Computer Application (BBACA)  
-**B.P.H.E Societys Ahmednager College, Ahmednagar** *(Pursuing)*  
-CGPA: **-** | Percentage: **-**
+**B.P.H.E Societys Ahmednager College, Ahmednagar**   
+CGPA: 7.96 | Percentage: 76.00%
 
 ---
 
